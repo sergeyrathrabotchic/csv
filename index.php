@@ -101,7 +101,7 @@ if( isset( $_POST['Опубликовать'] )  ) {
     <label for="exampleFormControlFile1">Загрузите файл</label>
     <input  type="file" name="csv" class="form-control-file" id="exampleFormControlFile1" required>
   </div>
-  <button type="submit" class="btn btn-primary" value="Опубликовать" name="Опубликовать">Submit</button>
+  <button type="submit" class="btn btn-primary" value="Опубликовать" name="Опубликовать">Загрузить</button>
 </form>
 
 
